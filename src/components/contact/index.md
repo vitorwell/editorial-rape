@@ -8,7 +8,7 @@ tagline: >-
 phone: (16) 98853 9122
 address: Sao Carlos - SP Brasil
 email:
-  label: vitorwe@gmail.com
+  label: vitorwel@gmail.com
   linkType: external
   linkUrl: 'mailto:vitorwe@gmail.com'
 ---
