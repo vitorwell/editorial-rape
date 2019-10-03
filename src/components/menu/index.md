@@ -24,7 +24,7 @@ menuItems:
     parentid: '-1'
   - id: '14'
     label: Tabaco Mói
-    link: /products/tabaco
+    link: /tabaco
     linkType: internal
     parentid: '-1'
 ---
