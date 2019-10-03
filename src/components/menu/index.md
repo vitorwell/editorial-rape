@@ -23,7 +23,7 @@ menuItems:
     linkType: internal
     parentid: '-1'
   - id: '14'
-    label: Shopify Tag 3
+    label: Tabaco Mói
     link: /products/tabaco
     linkType: internal
     parentid: '-1'
