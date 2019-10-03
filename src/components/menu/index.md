@@ -7,24 +7,19 @@ menuItems:
     link: /
     linkType: internal
     parentid: '-1'
-  - id: '10'
-    label: Blog Posts
-    link: /posts
-    linkType: internal
-    parentid: '-1'
   - id: '12'
     label: Rapé
     link: /rape
     linkType: internal
     parentid: '-1'
-  - id: '13'
-    label: Incenso
-    link: /incenso
-    linkType: internal
-    parentid: '-1'
   - id: '14'
     label: Tabaco Mói
     link: /tabaco
+    linkType: internal
+    parentid: '-1'
+  - id: '13'
+    label: Incenso
+    link: /incenso
     linkType: internal
     parentid: '-1'
 ---
